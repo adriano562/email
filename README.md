@@ -34,4 +34,9 @@ Executar o programa
 Gerar um e-mail temporário
 Utilizar o e-mail em cadastros
 Verificar mensagens recebidas diretamente no sistema
-[Print do projeto](email-app.png)
+📄 Exemplo de uso
+- Executar o programa
+- Gerar um e-mail temporário
+- Utilizar o e-mail em cadastros
+- Verificar mensagens recebidas diretamente no sistem
+![Print do projeto](email-app.png)
